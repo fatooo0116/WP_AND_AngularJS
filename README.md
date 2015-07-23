@@ -23,6 +23,8 @@ Integrate  Wordpress  And  AngularJS
                         }).error(function(){
                             console.log("error");
                         });
+## 2.RestFULL Ajax
+http://wp-api.org/
 
 # 2. Speed UP AJAX
 
