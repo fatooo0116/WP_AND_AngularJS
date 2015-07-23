@@ -1,8 +1,8 @@
 # WP_AND_AngularJS
 Integrate  Wordpress  And  AngularJS
 
-
-# 1.OLD  XHR Ajax
+# AJAX Data Fetch.
+## 1.OLD  XHR Ajax
                     var req = {
                         method: 'POST',
                         url: '/wp-admin/admin-ajax.php',
