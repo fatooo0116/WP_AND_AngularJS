@@ -26,7 +26,7 @@ Integrate  Wordpress  And  AngularJS
 ## 2.RestFULL Ajax
 http://wp-api.org/
 
-# 2. Speed UP AJAX
+# 2. Speed UP Wordpress AJAX
 
     // Force a short-init since we just need core WP, not the entire framework stack
      define( 'SHORTINIT', true );
