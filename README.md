@@ -23,3 +23,10 @@ Integrate  Wordpress  And  AngularJS
                         }).error(function(){
                             console.log("error");
                         });
+
+# 2. Speed UP AJAX
+
+    // Force a short-init since we just need core WP, not the entire framework stack
+     define( 'SHORTINIT', true );
+
+
